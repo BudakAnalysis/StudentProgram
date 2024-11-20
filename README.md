@@ -1,4 +1,4 @@
-# StudentProgram
+# Student Management Program
 
 A Python-based application for managing student enrollment and grading in a course. This program is designed to facilitate easy enrollment, manage students' grades, and compute overall course averages. The software is organized into separate modules for efficient functionality and code clarity.
 
